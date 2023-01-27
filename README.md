@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @duke3o5
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.JS
+- 💞️ I’m looking to collaborate on React or JavaScript Project
+- 📫 How to reach me deepakbhardwaj0805@gmail.com
 Twitter - @dechinside
 
 <!---
