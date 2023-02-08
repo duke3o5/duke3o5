@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-Have worked in:
+:hammer_and_wrench: Have worked in:
 <br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
@@ -70,10 +70,17 @@ Contributions made:
 <div/>
 <br/>
 
+<div align="center">
+:fire: My Stats :
+<br/>
+
+
+<br/>
 
 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duke3o5)](https://git.io/streak-stats)
+<div/>
 
 
 
