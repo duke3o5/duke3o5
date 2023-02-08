@@ -14,6 +14,14 @@
 </div>
 <br/>
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-2a107a85)
+
 <!---
 duke3o5/duke3o5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
