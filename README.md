@@ -14,6 +14,9 @@
 </div>
 <br/>
 
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -30,8 +33,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-:hammer_and_wrench: Have worked in:
-<br/>
+
+
+### :hammer_and_wrench: Have worked in:
+
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
@@ -49,33 +54,41 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-Version Control and Development tools used:
-<br/>
+
+
+### Version Control and Development tools used:
+
 <img src="https://img.shields.io/badge/Subline Text-FF9800?logo=Sublime Text&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
 <div/>
 <br/>
 <div align="left">
-Operating System familiar with:
-<br/>
+
+
+### Operating System familiar with:
+
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
 <div/>
   <br/>
   
   <div align="left">
-Contributions made:
-<br/>
+  
+  
+### Contributions made:
+
 <img src="https://github-readme-stats.vercel.app/api?username=duke3o5&count_private=true&theme=radical&show_icons=true" />
 <div/>
 <br/>
 
 <div align="left">
-:fire: My Stats :
 
 
-<br/>
+### :fire: My Stats :
+
+
+
 
 
 
