@@ -57,6 +57,7 @@ Operating System familiar with:
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
 <div/>
+  <br/>
 
 
 
