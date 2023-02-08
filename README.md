@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<div align="center">
+<div align="left">
 :hammer_and_wrench: Have worked in:
 <br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" />
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 
-<div align="center">
+<div align="left">
 Version Control and Development tools used:
 <br/>
 <img src="https://img.shields.io/badge/Subline Text-FF9800?logo=Sublime Text&logoColor=white&style=flat" />
@@ -56,7 +56,7 @@ Version Control and Development tools used:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
 <div/>
 <br/>
-<div align="center">
+<div align="left">
 Operating System familiar with:
 <br/>
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
@@ -64,14 +64,14 @@ Operating System familiar with:
 <div/>
   <br/>
   
-  <div align="center">
+  <div align="left">
 Contributions made:
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=duke3o5&count_private=true&theme=radical&show_icons=true" />
 <div/>
 <br/>
 
-<div align="center">
+<div align="left">
 :fire: My Stats :
 
 
@@ -86,6 +86,6 @@ Contributions made:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duke3o5)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=your-github-duke3o5&style=flat-square&color=blue" alt=""/>
 </div>
