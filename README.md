@@ -3,13 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/deepak-kumar-2a107a85">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/dechinside">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://t.me/viageralt">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-address"/>
+    <img src="https://img.shields.io/badge/telegram-Rich Electric Blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-address"/>
   </a>
 </div>
 <br/>
