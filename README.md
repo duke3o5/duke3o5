@@ -63,6 +63,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Replit-F26207?logo=Replit&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/CodeSandbox-151515?logo=CodeSandbox&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/CodePen-000000?logo=CodePen&logoColor=white&style=flat" />
 <div/>
 <br/>
 <div align="left">
