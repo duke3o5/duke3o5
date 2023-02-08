@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 
 
-### Version Control and Development tools used:
+### :hammer_and_wrench: Version Control and Development tools used:
 
 <img src="https://img.shields.io/badge/Subline Text-FF9800?logo=Sublime Text&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 
 
-### Operating System familiar with:
+### :electron: Operating System familiar with:
 
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
   <div align="left">
   
   
-### Contributions made:
+### :large_blue_circle: Contributions made:
 
 <img src="https://github-readme-stats.vercel.app/api?username=duke3o5&count_private=true&theme=radical&show_icons=true" />
 <div/>
