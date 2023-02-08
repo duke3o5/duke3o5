@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/React.JS-61DAFB?logo=React&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Chakra UI-319795?logo=Chakra UI&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat" />
@@ -72,7 +73,6 @@ Contributions made:
 
 <div align="center">
 :fire: My Stats :
-<br/>
 
 
 <br/>
