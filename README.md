@@ -22,7 +22,10 @@ Tech stack I know:
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=plastic" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duke3o5)](https://github.com/anuraghazra/github-readme-stats)
+
+
