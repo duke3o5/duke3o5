@@ -13,8 +13,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-duke3o5&style=flat-square&color=blue" alt=""/>
-
 <!---
 duke3o5/duke3o5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -49,3 +47,4 @@ Operating System familiar with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duke3o5)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img src="https://komarev.com/ghpvc/?username=your-github-duke3o5&style=flat-square&color=blue" alt=""/>
