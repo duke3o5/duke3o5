@@ -46,12 +46,7 @@ Have worked in:
 <div/>
 <br/>
 
-<div align="center">
-Contributions made:
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=duke3o5&count_private=true&theme=radical&show_icons=true" />
-<div/>
-<br/>
+
 <div align="center">
 Version Control and Development tools used:
 <br/>
@@ -67,6 +62,13 @@ Operating System familiar with:
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
 <div/>
   <br/>
+  
+  <div align="center">
+Contributions made:
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=duke3o5&count_private=true&theme=radical&show_icons=true" />
+<div/>
+<br/>
 
 
 
