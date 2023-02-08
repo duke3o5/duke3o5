@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Subline Text-FF9800?logo=Sublime Text&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Replit-F26207?logo=Replit&logoColor=white&style=flat" />
 <div/>
 <br/>
 <div align="left">
