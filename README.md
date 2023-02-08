@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @duke3o5
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on React or JavaScript Project
-- 📫 How to reach me deepakbhardwaj0805@gmail.com
-Twitter - @dechinside
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -19,6 +12,8 @@ Twitter - @dechinside
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-address"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-duke3o5&style=flat-square&color=blue" alt=""/>
 
 <!---
 duke3o5/duke3o5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
