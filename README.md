@@ -20,8 +20,8 @@
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-2a107a85)
-[![Telegram Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/viageralt)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-2a107a85)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/viageralt)
 
 <!---
 duke3o5/duke3o5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
