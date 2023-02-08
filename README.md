@@ -8,8 +8,8 @@
   <a href="https://twitter.com/dechinside">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="deepakbhardwaj0805@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-address"/>
+  <a href="https://t.me/viageralt">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-address"/>
   </a>
 </div>
 <br/>
