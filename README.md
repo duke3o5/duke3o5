@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-2a107a85)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/viageralt)
-
+- 🗃️: : Portfolio: https://duke3o5.github.io
 <!---
 duke3o5/duke3o5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
